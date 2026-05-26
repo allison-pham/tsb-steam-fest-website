@@ -5,4 +5,4 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
-Central event website for STEAM Fest 2024.
+Central event website for STEAM Fest 2024
